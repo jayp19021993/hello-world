@@ -1,7 +1,10 @@
-body{
-    font-family: sans-serif;
-} 
 :root{ 
     --clr-light: white;
     --clr-dark: black;
-}
+} 
+
+body{
+    font-family: sans-serif;
+    background-color: var(--clr-light); 
+
+} 
