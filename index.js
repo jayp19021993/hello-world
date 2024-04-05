@@ -5,5 +5,6 @@
   //};    
 
   function darkMode(){
-    
+   document.body.style.background="black"; 
+   document.querySelectorAll('h1').forEach(style.color="white");
   }
